@@ -17,4 +17,4 @@ Dafuer braucht man Skills
 
 ## External hardware
 
-Verwende einfach so yu sagen elemente verbinde sie wie in Informatik aber 100-mal schwerer und hoffe das alle Hardwares miteinander in Harmonie funktionieren
+Verwende einfach so zu sagen Elemente verbinde sie wie in Informatik aber 100-mal schwerer und hoffe das alle Hardwares miteinander in Harmonie funktionieren
